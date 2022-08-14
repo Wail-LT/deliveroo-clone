@@ -16,7 +16,7 @@ import { grayLight, primary } from "../../theme/colors";
 
 export default function Header() {
   return (
-    <StyledView className="p-4">
+    <StyledView className="m-4">
       <MainSection />
       <SearchSection />
     </StyledView>
